@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		77B6CC4927C458770040CFCB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		77E3657C27C4521B00BCC27C /* augmentreality-template.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "augmentreality-template.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77E3657F27C4521B00BCC27C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77E3658127C4521B00BCC27C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +66,7 @@
 		77E3658727C4521C00BCC27C /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				77B6CC4927C458770040CFCB /* README.md */,
 				77E3658827C4521C00BCC27C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
